@@ -1,0 +1,15 @@
+.skillBar {
+    padding: 5px;
+    display: block;
+    border: 1px solid #1cb44b;
+    margin: 5px;
+    transition: all linear;
+}
+
+.skillBar:hover {
+    border: 1px solid #91b41c;
+}
+
+.skillBox {
+    display: flex;
+}
